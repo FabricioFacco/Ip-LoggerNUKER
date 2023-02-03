@@ -1,2 +1,0 @@
-# Ip-LoggerNUKER
-💥 Nuke IpLoggers
